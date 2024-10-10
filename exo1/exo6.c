@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main () {
-    int n,m,s=0,p=1,i;
+    int n,s=0,p=1,i;
     float m;
     i=1;
     do{ 
